@@ -1,0 +1,470 @@
+{
+  "name": "qwerty keyboard",
+  "main_keyboard": {
+    "start_uppercase":true,
+    "case_sensitive":true,
+    "key_rows": [
+      {
+        "width":100,
+        "keys":[
+          {
+            "uppercase": "Q",
+            "value": "q",
+            "width": 10
+          },
+          {
+            "uppercase": "W",
+            "value": "w",
+            "width": 10
+          },
+          {
+            "uppercase": "E",
+            "value": "e",
+            "width": 10
+          },
+          {
+            "uppercase": "R",
+            "value": "r",
+            "width": 10
+          },
+          {
+            "uppercase": "T",
+            "value": "t",
+            "width": 10
+          },
+          {
+            "uppercase": "Y",
+            "value": "y",
+            "width": 10
+          },
+          {
+            "uppercase": "U",
+            "value": "u",
+            "width": 10
+          },
+          {
+            "uppercase": "I",
+            "value": "i",
+            "width": 10
+          },
+          {
+            "uppercase": "O",
+            "value": "o",
+            "width": 10
+          },
+          {
+            "uppercase": "P",
+            "value": "p",
+            "width": 10
+          }
+        ]
+      },
+      {
+        "width":90,
+        "keys":[
+          {
+            "uppercase": "A",
+            "value": "a",
+            "width": 10
+          },
+          {
+            "uppercase": "S",
+            "value": "s",
+            "width": 10
+          },
+          {
+            "uppercase": "D",
+            "value": "d",
+            "width": 10
+          },
+          {
+            "uppercase": "F",
+            "value": "f",
+            "width": 10
+          },
+          {
+            "uppercase": "G",
+            "value": "g",
+            "width": 10
+          },
+          {
+            "uppercase": "H",
+            "value": "h",
+            "width": 10
+          },
+          {
+            "uppercase": "J",
+            "value": "j",
+            "width": 10
+          },
+          {
+            "uppercase": "K",
+            "value": "k",
+            "width": 10
+          },
+          {
+            "uppercase": "L",
+            "value": "l",
+            "width": 10
+          }
+        ]
+      },
+      {
+        "width":100,
+        "keys": [
+          {
+              "value":"shift",
+              "width":15
+          },
+          {
+              "uppercase":"Z",
+              "value":"z",
+              "width":10
+          },
+          {
+              "uppercase":"X",
+              "value":"x",
+              "width":10
+          },
+          {
+              "uppercase":"C",
+              "value":"c",
+              "width":10
+          },
+          {
+              "uppercase":"V",
+              "value":"v",
+              "width":10
+          },
+          {
+              "uppercase":"B",
+              "value":"b",
+              "width":10
+          },
+          {
+              "uppercase":"N",
+              "value":"n",
+              "width":10
+          },
+          {
+              "uppercase":"M",
+              "value":"m",
+              "width":10
+          },
+          {
+              "value":"delete",
+              "width":15
+          }
+        ]
+      },
+      {
+        "width":100,
+        "keys": [
+          {
+              "value":"numbers",
+              "width":20
+          },
+          {
+              "value":"space",
+              "width":60
+          },
+          {
+              "value":"return",
+              "width":20
+          }
+        ]
+      }
+    ]
+  },
+  "numbers": {
+      "case_sensitive":false,
+      "key_rows": [
+        {
+          "width":100,
+          "keys":[
+            {
+              "value": "1",
+              "width": 10
+            },
+            {
+              "value": "2",
+              "width": 10
+            },
+            {
+              "value": "3",
+              "width": 10
+            },
+            {
+              "value": "4",
+              "width": 10
+            },
+            {
+              "value": "5",
+              "width": 10
+            },
+            {
+              "value": "6",
+              "width": 10
+            },
+            {
+              "value": "7",
+              "width": 10
+            },
+            {
+              "value": "8",
+              "width": 10
+            },
+            {
+              "value": "9",
+              "width": 10
+            },
+            {
+              "value": "0",
+              "width": 10
+            }
+          ]
+        },
+        {
+          "width":100,
+          "keys":[
+            {
+              "value": "-",
+              "width": 10
+            },
+            {
+              "value": "/",
+              "width": 10
+            },
+            {
+              "value": ":",
+              "width": 10
+            },
+            {
+              "value": ";",
+              "width": 10
+            },
+            {
+              "value": "(",
+              "width": 10
+            },
+            {
+              "value": ")",
+              "width": 10
+            },
+            {
+              "value": "$",
+              "width": 10
+            },
+            {
+              "value": "&",
+              "width": 10
+            },
+            {
+              "value": "@",
+              "width": 10
+            },
+            {
+              "value": "\"",
+              "width": 10
+            }
+          ]
+        },
+        {
+          "width":100,
+          "keys":[
+            {
+              "value": "symbols",
+              "width": 20
+            },
+            {
+              "value": ".",
+              "width": 12
+            },
+            {
+              "value": ",",
+              "width": 12
+            },
+            {
+              "value": "?",
+              "width": 12
+            },
+            {
+              "value": "!",
+              "width": 12
+            },
+            {
+              "value": "'",
+              "width": 12
+            },
+            {
+              "value": "delete",
+              "width": 20
+            }
+          ]
+        },
+        {
+          "width":100,
+          "keys": [
+            {
+                "value":"alphabet",
+                "width":20
+            },
+            {
+                "value":"space",
+                "width":60
+            },
+            {
+                "value":"return",
+                "width":20
+            }
+          ]
+      }
+    ]
+  },
+  "symbols": {
+      "case_sensitive":false,
+      "key_rows": [
+        {
+          "width":100,
+          "keys":[
+            {
+              "value": "[",
+              "width": 10
+            },
+            {
+              "value": "]",
+              "width": 10
+            },
+            {
+              "value": "{",
+              "width": 10
+            },
+            {
+              "value": "}",
+              "width": 10
+            },
+            {
+              "value": "#",
+              "width": 10
+            },
+            {
+              "value": "%",
+              "width": 10
+            },
+            {
+              "value": "^",
+              "width": 10
+            },
+            {
+              "value": "*",
+              "width": 10
+            },
+            {
+              "value": "+",
+              "width": 10
+            },
+            {
+              "value": "=",
+              "width": 10
+            }
+          ]
+        },
+        {
+          "width":100,
+          "keys":[
+            {
+              "value": "_",
+              "width": 10
+            },
+            {
+              "value": "\\",
+              "width": 10
+            },
+            {
+              "value": "|",
+              "width": 10
+            },
+            {
+              "value": "~",
+              "width": 10
+            },
+            {
+              "value": "<",
+              "width": 10
+            },
+            {
+              "value": ">",
+              "width": 10
+            },
+            {
+              "value": "€",
+              "width": 10
+            },
+            {
+              "value": "£",
+              "width": 10
+            },
+            {
+              "value": "¥",
+              "width": 10
+            },
+            {
+              "value": "•",
+              "width": 10
+            }
+          ]
+        },
+        {
+          "width":100,
+          "keys":[
+            {
+              "value": "numbers",
+              "width": 20
+            },
+            {
+              "value": ".",
+              "width": 12
+            },
+            {
+              "value": ",",
+              "width": 12
+            },
+            {
+              "value": "?",
+              "width": 12
+            },
+            {
+              "value": "!",
+              "width": 12
+            },
+            {
+              "value": "'",
+              "width": 12
+            },
+            {
+              "value": "delete",
+              "width": 20
+            }
+          ]
+        },
+        {
+          "width":100,
+          "keys": [
+            {
+                "value":"alphabet",
+                "width":20
+            },
+            {
+                "value":"space",
+                "width":60
+            },
+            {
+                "value":"return",
+                "width":20
+            }
+          ]
+        }
+      ]
+    }
+}
+
